@@ -1,0 +1,7 @@
+name = NSZL
+description = NSpoor Zuid-Limburg
+version = 2.2
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
+stylesheets[print][] = print.css
